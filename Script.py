@@ -49,7 +49,7 @@ This methord works on any chat, Just type @Entertainment_Official_Bot and then l
 - Source - Private  
 
 <b>DEVS:</b>
-- <a href=https://t.me/YourDilip>ᴀᴍ_ᴛᴇᴄʜ</a>"""
+- <a href=https://t.me/YourDilip>ᴅɪʟɪᴘ_ᴋᴜᴍᴀʀ</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
